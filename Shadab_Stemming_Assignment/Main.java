@@ -47,7 +47,7 @@ public class Main implements ActionListener {
     }
     
     public void actionPerformed(ActionEvent e){
-        String text = area1.getText();
+        String text = area1.getText().toLowerCase();
         String []  array = text.split("\\s");
 
 

@@ -29,8 +29,7 @@ public class TextFieldGUI implements ActionListener{
         b1.setBounds(100, 320, 400, 50);
 
         b1.addActionListener(this);
-
-        // Add components to the JFrame
+        
         f.add(scrollPane1, BorderLayout.CENTER);
         f.add(scrollPane2, BorderLayout.CENTER);
         f.add(b1, BorderLayout.SOUTH);

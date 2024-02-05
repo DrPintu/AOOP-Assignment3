@@ -36,19 +36,17 @@ The stemming rules are applied to the input words, covering various suffixes suc
 
 ### Input
 ```
-The quick brown foxes are jumping over the lazy dogs.
+Every industry is scaling new heights by tapping into the power of data. Sharpen your skills and become a part of the hottest trend in the 21st century.
 ```
 
 ### Output
 ```
-quick: quick
-brown: brown
-fox: fox
-are: are
-jumping: jump
-over: over
-lazy: lazi
-dogs: dog
+skills: skill
+scaling: scale
+tapping: tap
+heights: height
+hottest: hott
+power: pow
 ```
 
 ## Author: Nagmani Kumar

@@ -1,0 +1,12 @@
+Assignment:
+Given a text paragraph or any paragraph taken by text file reading in Java, you have to find inflected words and print their root forms. You need to create one text area for showing (or entering) the paragraph. When you click on a certain button, another text area will show the inflected words along with their roots. You are not allowed to use any given libraries for this task.
+
+As an example, consider the following text.
+
+He was flying 10000 feet above. All passengers including him were enjoying the flight.....
+
+Output may look like follows
+
+flying -- > fly
+Passengers --> Passenger
+... and so on.

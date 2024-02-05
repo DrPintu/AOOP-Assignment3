@@ -51,6 +51,4 @@ lazy: lazi
 dogs: dog
 ```
 
-Author:
-Nagmani Kumar
-Student at Sitare University
+## Author: Nagmani Kumar

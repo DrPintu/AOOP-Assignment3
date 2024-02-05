@@ -22,9 +22,15 @@ The stemming rules are applied to various suffixes, such as "ing," "ed," "s," "l
 - The `applyStemmingRule` method in the `WordStemmer` class directs the program to the appropriate stemming method based on the suffix.
 
 ## Example
-```java
-public class InflectedWordFinder {
-    public static void main(String[] args) {
-        new InflectedWordFinder();
-    }
-}
+
+**Input:**
+```
+text paragraph or any paragraph taken by text file reading in Java, you have to find inflected words and print their root word.
+```
+
+**Output:**
+```
+reading --> read
+inflected --> inflect
+words --> word
+```
